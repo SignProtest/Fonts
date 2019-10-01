@@ -1,3 +1,6 @@
 # Fonts
-Protest Sign Fonts - Highly visible and able to be used for templates
-Coming soon.
+SignProtest Fonts - Released 10/2019. Design by @SignProtest on Twitter.
+
+This font is:
+- Highway legible, easily scalable, template ready.
+- FREE!
